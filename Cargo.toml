@@ -1,0 +1,6 @@
+[package]
+name = "rust_snake"
+version = "0.1.0"
+authors = ["Alex Ball <alexball@alexball.me>"]
+
+[dependencies]
